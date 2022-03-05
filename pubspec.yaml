@@ -1,0 +1,18 @@
+name: android_tv_login_screen
+description: An easy to use login screen for Android TV. Fully responsive to D-Pad controls. Replaces issues with keyboards on Android TV. Inspired by https://pub.dev/packages/onscreen_keyboard. 
+version: 0.0.1
+author: 
+homepage: 
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+flutter:
